@@ -11,6 +11,8 @@
  *
  * 12 March 2012
  */
+namespace Opauth;
+
 class tmhOAuth {
   const VERSION = 0.621;
 
