@@ -1,0 +1,17 @@
+{
+	"name": "uzura8/fuel-packages-opauth",
+	"type": "fuel-package",
+	"require": {
+		"composer/installers": "*"
+	},
+	"extra": {
+		"installer-name": "opauth"
+	},
+	"authors": [
+		{
+			"name": "Shingo Yamada"
+		}
+	],
+	"license": "MIT"
+}
+
